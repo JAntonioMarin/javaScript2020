@@ -2,14 +2,14 @@
 
 ### Section 1: Introducción al curso de JavaScript
 
-- [ ] Bienvenida al curso
-- [ ] ¿Como hacer preguntas?
-- [ ] El editor de código
-- [ ] El navegador y Node.js
-- [ ] Incorporar código JavaScript
-- [ ] Ejecutar JavaScript en la terminal Unix
-- [ ] Ejecutar JavaScript en la terminal Windows
-- [ ] Como realizar el curso
+- [x] Bienvenida al curso
+- [x] ¿Como hacer preguntas?
+- [x] El editor de código
+- [x] El navegador y Node.js
+- [x] Incorporar código JavaScript
+- [x] Ejecutar JavaScript en la terminal Unix
+- [x] Ejecutar JavaScript en la terminal Windows
+- [x] Como realizar el curso
 
 ### Section 2: Fundamentos de Programación en JavaScript
 
