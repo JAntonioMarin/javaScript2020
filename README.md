@@ -2,5 +2,5 @@
 
 ### Section 1: Introducción al curso de JavaScript
 
--[ ] Bienvenida al curso
+- [ ] Bienvenida al curso
 
