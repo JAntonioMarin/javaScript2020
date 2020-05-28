@@ -13,14 +13,14 @@
 
 ### Section 2: Fundamentos de Programación en JavaScript
 
-- [ ] Introducción
-- [ ] ¿Qué es JavaScript?
-- [ ] Notas sobre JavaScript
-- [ ] Variables y tipos de datos
-- [ ] Reglas en el uso de variables
-- [ ] Comentarios en el código
-- [ ] Conversión de variables
-- [ ] Mutación de variables
+- [x] Introducción
+- [x] ¿Qué es JavaScript?
+- [x] Notas sobre JavaScript
+- [x] Variables y tipos de datos
+- [x] Reglas en el uso de variables
+- [x] Comentarios en el código
+- [x] Conversión de variables
+- [x] Mutación de variables
 - [ ] Operadores matemáticos
 - [ ] Operadores Lógicos
 - [ ] Operador typeof
@@ -30,5 +30,28 @@
 - [ ] Ejecicio de codificación 1
 - [ ] La consola
 - [ ] Código de la sección de Fundamentos
+
+### Section 3: HTML 5 y CSS3
+
+- [ ] Introducción.
+- [ ] Estructura de una página web HTM5
+- [ ] Etiquetas
+- [ ] CSS
+
+### Section 4: JavaScript - Sentencias y bucles
+
+- [ ] Introducción
+- [ ] Sentencia if/else
+- [ ] Sentencias condicionales
+- [ ] Operador ternario
+- [ ] Sentencia Switch
+- [ ] Sentencia for
+- [ ] Sentencia while
+- [ ] Sentencia do...while
+- [ ] Valores verdaderos y falsos
+- [ ] Ejecicio de codificación 2
+- [ ] Solución al ejercicio de codificación 2
+- [ ] Código de la sección
+
 
 Continuara...
