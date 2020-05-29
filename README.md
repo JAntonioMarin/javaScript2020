@@ -53,5 +53,23 @@
 - [ ] Solución al ejercicio de codificación 2
 - [ ] Código de la sección
 
+### Section 5: Funciones en JavaScript
+
+- [ ] Introducción
+- [ ] Creando nuestra primera función
+- [ ] Argumentos en las funciones
+- [ ] Ejemplo: función convierte Fahrenheit a Celsius
+- [ ] Ejemplo: función calcular edad
+- [ ] Ejercicio de codificación 3
+- [ ] Solución al ejercicio de codificación 3
+- [ ] Funciones como expresiones
+- [ ] Argumentos no definidos (undefined)
+- [ ] Argumentos Nulos (nulls)
+- [ ] Argumentos por defecto
+- [ ] Plantillas de textos (Template strings)
+- [ ] Ejecicio de codificación 4
+- [ ] Solución al ejercicio de codificación 4
+- [ ] Codificación de la sección
+
 
 Continuara...
