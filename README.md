@@ -21,15 +21,15 @@
 - [x] Comentarios en el código
 - [x] Conversión de variables
 - [x] Mutación de variables
-- [ ] Operadores matemáticos
-- [ ] Operadores Lógicos
-- [ ] Operador typeof
-- [ ] Operadores de incremento y decremento
-- [ ] Operadores de asignación
-- [ ] Conoce más sobre los Operadores en JavaScript
-- [ ] Ejecicio de codificación 1
-- [ ] La consola
-- [ ] Código de la sección de Fundamentos
+- [x] Operadores matemáticos
+- [x] Operadores Lógicos
+- [x] Operador typeof
+- [x] Operadores de incremento y decremento
+- [x] Operadores de asignación
+- [x] Conoce más sobre los Operadores en JavaScript
+- [x] Ejecicio de codificación 1
+- [x] La consola
+- [x] Código de la sección de Fundamentos
 
 ### Section 3: HTML 5 y CSS3
 
