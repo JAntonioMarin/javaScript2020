@@ -33,10 +33,10 @@
 
 ### Section 3: HTML 5 y CSS3
 
-- [ ] Introducción.
-- [ ] Estructura de una página web HTM5
-- [ ] Etiquetas
-- [ ] CSS
+- [x] Introducción.
+- [x] Estructura de una página web HTM5
+- [x] Etiquetas
+- [x] CSS
 
 ### Section 4: JavaScript - Sentencias y bucles
 
