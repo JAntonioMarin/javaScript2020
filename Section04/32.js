@@ -1,3 +1,5 @@
+// Sentencia if/else
+
 var nombre = 'Juan';
 var estadoCivil = 'soltero';
 var estaCasado = false;
