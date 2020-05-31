@@ -71,5 +71,15 @@
 - [ ] Solución al ejercicio de codificación 4
 - [ ] Codificación de la sección
 
+### Section 6: Arrays y Objetos
+
+- [ ] Introducción
+- [ ] ¿Que es un array?
+- [ ] Declaración de arrays en JavaScript
+- [ ] Operaciones con Arrays
+- [ ] Arrays con datos de diferentes tipos
+- [ ] Creando objetos de forma literal
+- [ ] Creando objetos con la sintasis Object
+- [ ] Objetos y metodos
 
 Continuara...
