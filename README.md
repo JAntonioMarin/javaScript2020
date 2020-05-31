@@ -40,18 +40,18 @@
 
 ### Section 4: JavaScript - Sentencias y bucles
 
-- [ ] Introducción
-- [ ] Sentencia if/else
-- [ ] Sentencias condicionales
-- [ ] Operador ternario
-- [ ] Sentencia Switch
-- [ ] Sentencia for
-- [ ] Sentencia while
-- [ ] Sentencia do...while
-- [ ] Valores verdaderos y falsos
-- [ ] Ejecicio de codificación 2
-- [ ] Solución al ejercicio de codificación 2
-- [ ] Código de la sección
+- [x] Introducción
+- [x] Sentencia if/else
+- [x] Sentencias condicionales
+- [x] Operador ternario
+- [x] Sentencia Switch
+- [x] Sentencia for
+- [x] Sentencia while
+- [x] Sentencia do...while
+- [x] Valores verdaderos y falsos
+- [x] Ejecicio de codificación 2
+- [x] Solución al ejercicio de codificación 2
+- [x] Código de la sección
 
 ### Section 5: Funciones en JavaScript
 
