@@ -55,13 +55,13 @@
 
 ### Section 5: Funciones en JavaScript
 
-- [ ] Introducción
-- [ ] Creando nuestra primera función
-- [ ] Argumentos en las funciones
-- [ ] Ejemplo: función convierte Fahrenheit a Celsius
-- [ ] Ejemplo: función calcular edad
-- [ ] Ejercicio de codificación 3
-- [ ] Solución al ejercicio de codificación 3
+- [x] Introducción
+- [x] Creando nuestra primera función
+- [x] Argumentos en las funciones
+- [x] Ejemplo: función convierte Fahrenheit a Celsius
+- [x] Ejemplo: función calcular edad
+- [x] Ejercicio de codificación 3
+- [x] Solución al ejercicio de codificación 3
 - [ ] Funciones como expresiones
 - [ ] Argumentos no definidos (undefined)
 - [ ] Argumentos Nulos (nulls)
