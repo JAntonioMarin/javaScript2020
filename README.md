@@ -82,4 +82,24 @@
 - [ ] Creando objetos con la sintasis Object
 - [ ] Objetos y metodos
 
+### Section 7: Manipulación del DOM
+
+- [ ] Introducción
+- [ ] ¿Que es el DOM?
+- [ ] Creando el proyecto
+- [ ] Examinando el DOM
+- [ ] Obtener elementos por id, por tag y por clase
+- [ ] Consulta por selectores
+- [ ] Elementos y nodos padres
+- [ ] Elementos y nodos hijos
+- [ ] Elementos y nodos hermanos
+- [ ] Crear elementos y nodos
+- [ ] Eventos
+- [ ] Cambiando el diseño de nuestro sitio
+- [ ] Agregar elementos a una lista y evento submit
+- [ ] Eliminar elementos a una lista
+- [ ] Buscar elementos en una lista
+- [ ] Código final de la sección
+
+
 Continuara...
