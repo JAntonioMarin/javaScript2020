@@ -62,14 +62,14 @@
 - [x] Ejemplo: función calcular edad
 - [x] Ejercicio de codificación 3
 - [x] Solución al ejercicio de codificación 3
-- [ ] Funciones como expresiones
-- [ ] Argumentos no definidos (undefined)
-- [ ] Argumentos Nulos (nulls)
-- [ ] Argumentos por defecto
-- [ ] Plantillas de textos (Template strings)
-- [ ] Ejecicio de codificación 4
-- [ ] Solución al ejercicio de codificación 4
-- [ ] Codificación de la sección
+- [x] Funciones como expresiones
+- [x] Argumentos no definidos (undefined)
+- [x] Argumentos Nulos (nulls)
+- [x] Argumentos por defecto
+- [x] Plantillas de textos (Template strings)
+- [x] Ejecicio de codificación 4
+- [x] Solución al ejercicio de codificación 4
+- [x] Codificación de la sección
 
 ### Section 6: Arrays y Objetos
 
