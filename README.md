@@ -101,5 +101,21 @@
 - [ ] Buscar elementos en una lista
 - [ ] Código final de la sección
 
+### Section 8: JavaScript Moderno ES6, ES7...(ES2015, ES2016)
+
+- [ ] Introducción
+- [ ] Historias de JavaScript y  cual versión utilizar
+- [ ] Lo nuevo en ES6/ ES2015
+- [ ] Variables con Let y Const
+- [ ] Bloque y alcance de las variables
+- [ ] Plantilla de cadena avanzada
+- [ ] Nuevos métodos para las cadenas
+- [ ] Funciones flecha- parte 1
+- [ ] Funciones flecha- parte 2
+- [ ] Destructuración o destrucción
+- [ ] Ejemplo destrucción
+- [ ] Mapas
+- [ ] Operador de propagación (spread operator)
+- [ ] Todo el código de la sección
 
 Continuara...
