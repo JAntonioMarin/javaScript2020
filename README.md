@@ -84,11 +84,11 @@
 
 ### Section 7: Manipulación del DOM
 
-- [ ] Introducción
-- [ ] ¿Que es el DOM?
-- [ ] Creando el proyecto
-- [ ] Examinando el DOM
-- [ ] Obtener elementos por id, por tag y por clase
+- [x] Introducción
+- [x] ¿Que es el DOM?
+- [x] Creando el proyecto
+- [x] Examinando el DOM
+- [x] Obtener elementos por id, por tag y por clase
 - [ ] Consulta por selectores
 - [ ] Elementos y nodos padres
 - [ ] Elementos y nodos hijos
