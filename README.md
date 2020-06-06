@@ -73,14 +73,14 @@
 
 ### Section 6: Arrays y Objetos
 
-- [ ] Introducción
-- [ ] ¿Que es un array?
-- [ ] Declaración de arrays en JavaScript
-- [ ] Operaciones con Arrays
-- [ ] Arrays con datos de diferentes tipos
-- [ ] Creando objetos de forma literal
-- [ ] Creando objetos con la sintasis Object
-- [ ] Objetos y metodos
+- [x] Introducción
+- [x] ¿Que es un array?
+- [x] Declaración de arrays en JavaScript
+- [x] Operaciones con Arrays
+- [x] Arrays con datos de diferentes tipos
+- [x] Creando objetos de forma literal
+- [x] Creando objetos con la sintasis Object
+- [x] Objetos y metodos
 
 ### Section 7: Manipulación del DOM
 
