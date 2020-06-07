@@ -89,11 +89,11 @@
 - [x] Creando el proyecto
 - [x] Examinando el DOM
 - [x] Obtener elementos por id, por tag y por clase
-- [ ] Consulta por selectores
-- [ ] Elementos y nodos padres
-- [ ] Elementos y nodos hijos
-- [ ] Elementos y nodos hermanos
-- [ ] Crear elementos y nodos
+- [x] Consulta por selectores
+- [x] Elementos y nodos padres
+- [x] Elementos y nodos hijos
+- [x] Elementos y nodos hermanos
+- [x] Crear elementos y nodos
 - [ ] Eventos
 - [ ] Cambiando el diseño de nuestro sitio
 - [ ] Agregar elementos a una lista y evento submit
