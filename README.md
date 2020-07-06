@@ -94,12 +94,12 @@
 - [x] Elementos y nodos hijos
 - [x] Elementos y nodos hermanos
 - [x] Crear elementos y nodos
-- [ ] Eventos
-- [ ] Cambiando el diseño de nuestro sitio
-- [ ] Agregar elementos a una lista y evento submit
-- [ ] Eliminar elementos a una lista
-- [ ] Buscar elementos en una lista
-- [ ] Código final de la sección
+- [x] Eventos
+- [x] Cambiando el diseño de nuestro sitio
+- [x] Agregar elementos a una lista y evento submit
+- [x] Eliminar elementos a una lista
+- [x] Buscar elementos en una lista
+- [x] Código final de la sección
 
 ### Section 8: JavaScript Moderno ES6, ES7...(ES2015, ES2016)
 
