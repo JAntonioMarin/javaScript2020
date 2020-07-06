@@ -118,4 +118,18 @@
 - [ ] Operador de propagación (spread operator)
 - [ ] Todo el código de la sección
 
+### Section 9: JavaScript Moderno - Objetos
+
+- [ ] Introducción
+- [ ] Objetos - Lo básico
+- [ ] Ejercicio de codificación Objetos
+- [ ] Usando objetos con funciones
+- [ ] Referencia a los objetos
+- [ ] Métodos
+- [ ] Uso de this
+- [ ] Objetos String
+- [ ] Destructuración de objetos - parte 1
+- [ ] Destructuración de objetos - parte 2
+- [ ] Código de la sección
+
 Continuara...
