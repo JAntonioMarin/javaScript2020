@@ -1,8 +1,8 @@
 //ES5 - Variables 
-var nombre = 'Pablo';
+var nombre5 = 'Pablo';
 var edad = 35;
-nombre = 'Carlos';
-console.log(nombre);
+nombre5 = 'Carlos';
+console.log(nombre5);
 
 //ES6 - Variables 
 const nombre6 = 'Pedro';
@@ -25,3 +25,19 @@ function prueba(){
 prueba();
 console.log(test);
 console.log(test2);
+
+//Template strings
+
+let nombre = 'Pablo';
+let apellido = 'Vasquez';
+const ciudad = 'Granada'
+const nacimiento = 1985;
+
+function calcularEdad(year){
+    return 2019 - year
+}
+
+//ES5
+console.log(nombre+' '+apellido+ ' nació en '+ciudad+' y su edad es '+calcularEdad(nacimiento));
+//ES6
+console.log(`${nombre} ${apellido}, nació en ${ciudad}, y su edad es ${calcularEdad(nacimiento)}`);
