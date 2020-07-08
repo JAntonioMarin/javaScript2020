@@ -41,3 +41,12 @@ function calcularEdad(year){
 console.log(nombre+' '+apellido+ ' nació en '+ciudad+' y su edad es '+calcularEdad(nacimiento));
 //ES6
 console.log(`${nombre} ${apellido}, nació en ${ciudad}, y su edad es ${calcularEdad(nacimiento)}`);
+
+//Funciones de cadenas
+
+let nombreCompleto = `${nombre} ${apellido}`;
+console.log(nombreCompleto);
+console.log(`${nombre} `.repeat(5));
+console.log(nombreCompleto.includes('blo'));
+console.log(nombreCompleto.startsWith('Pa'));
+console.log(nombreCompleto.endsWith('uez'));
