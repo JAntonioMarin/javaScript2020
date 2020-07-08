@@ -11,3 +11,17 @@ let edad6 = 28;
 edad6 = 29;
 console.log(nombre6);
 console.log(edad6);
+
+
+//Bloque y alcance de las variables
+var test;
+let test2;
+test = 10;
+test2 = 10
+function prueba(){
+    test2 = 15;
+    test = 15;
+}
+prueba();
+console.log(test);
+console.log(test2);
