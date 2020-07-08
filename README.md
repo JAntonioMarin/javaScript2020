@@ -103,13 +103,13 @@
 
 ### Section 8: JavaScript Moderno ES6, ES7...(ES2015, ES2016)
 
-- [ ] Introducción
-- [ ] Historias de JavaScript y  cual versión utilizar
-- [ ] Lo nuevo en ES6/ ES2015
-- [ ] Variables con Let y Const
-- [ ] Bloque y alcance de las variables
-- [ ] Plantilla de cadena avanzada
-- [ ] Nuevos métodos para las cadenas
+- [x] Introducción
+- [x] Historias de JavaScript y  cual versión utilizar
+- [x] Lo nuevo en ES6/ ES2015
+- [x] Variables con Let y Const
+- [x] Bloque y alcance de las variables
+- [x] Plantilla de cadena avanzada
+- [x] Nuevos métodos para las cadenas
 - [ ] Funciones flecha- parte 1
 - [ ] Funciones flecha- parte 2
 - [ ] Destructuración o destrucción
