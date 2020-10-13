@@ -50,3 +50,30 @@ console.log(`${nombre} `.repeat(5));
 console.log(nombreCompleto.includes('blo'));
 console.log(nombreCompleto.startsWith('Pa'));
 console.log(nombreCompleto.endsWith('uez'));
+
+// Funciones Flecha
+
+const years = [2000, 2005, 2008, 2012];
+
+//ES5
+
+var edad5f = years.map(function(el){
+    return 2020 - el;
+});
+console.log(edad5f);
+
+//ES6
+
+let edad6f = years.map(el => 2020 - el);
+console.log(edad6f);
+edad6f = years.map((el, index)=> `Edad ${index + 1}: ${2020 - el}`);
+console.log(edad6f);
+
+edad6f = years.map(
+    (el,index) => {
+        const yearActual = new Date().getFullYear();
+        const edad = yearActual - el;
+        return `Edad ${index+1}: ${edad}`;
+    }
+);
+console.log(edad6f);
