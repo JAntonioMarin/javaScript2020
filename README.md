@@ -111,7 +111,7 @@
 - [x] Plantilla de cadena avanzada
 - [x] Nuevos métodos para las cadenas
 - [x] Limpieza de repositorio
-- [ ] Funciones flecha- parte 1
+- [x] Funciones flecha- parte 1
 - [ ] Funciones flecha- parte 2
 - [ ] Destructuración o destrucción
 - [ ] Ejemplo destrucción
