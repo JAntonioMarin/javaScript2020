@@ -112,12 +112,12 @@
 - [x] Nuevos métodos para las cadenas
 - [x] Limpieza de repositorio
 - [x] Funciones flecha- parte 1
-- [ ] Funciones flecha- parte 2
-- [ ] Destructuración o destrucción
-- [ ] Ejemplo destrucción
-- [ ] Mapas
-- [ ] Operador de propagación (spread operator)
-- [ ] Todo el código de la sección
+- [x] Funciones flecha- parte 2
+- [x] Destructuración o destrucción
+- [x] Ejemplo destrucción
+- [x] Mapas
+- [x] Operador de propagación (spread operator)
+- [x] Todo el código de la sección
 
 ### Section 9: JavaScript Moderno - Objetos
 
@@ -131,6 +131,17 @@
 - [ ] Objetos String
 - [ ] Destructuración de objetos - parte 1
 - [ ] Destructuración de objetos - parte 2
+- [ ] Código de la sección
+
+### Section 10: JavaScript Moderno - Clases
+
+- [ ] Introducción
+- [ ] Programación Orientada a Objetos
+- [ ] Clases, sintaxis y constructores
+- [ ] Clases, sintaxis y constructores - parte 2
+- [ ] Subclases - parte 1
+- [ ] Subclases - parte 2
+- [ ] Getter y Setter
 - [ ] Código de la sección
 
 Continuara...
