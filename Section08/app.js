@@ -147,3 +147,21 @@ const [edad2, mayoria] = calcularMayoriaEdad(1990);
 console.log(edad2);
 console.log(`Es mayor de edad: ${mayoria}`);
 
+// Mapas
+
+const datosm = new Map();
+datosm.set('nombre', 'Grover');
+datosm.set('edad', 30);
+datosm.set(1, 'grover@email.com');
+datosm.set(2, 'otro@gmail.com');
+datosm.set('movil', 99999);
+
+console.log(datosm.get('nombre'));
+console.log(datosm.get(2));
+
+//datosm.delete(2);
+
+datos.forEach((value,key)=>{
+    console.log(`${key} : ${value}`);
+})
+
