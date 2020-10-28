@@ -77,3 +77,35 @@ edad6f = years.map(
     }
 );
 console.log(edad6f);
+
+function cuadrado(num){
+    return num * num;
+}
+
+console.log(cuadrado(5));
+
+const personas = [
+    {
+        nombre:'Pablo',
+        edad:20
+    },{
+        nombre:'Ana',
+        edad: 25
+    }, {
+        nombre:'Carlos',
+        edad: 30
+    },
+    {
+        nombre:'Pepe',
+        edad:35
+    }
+];
+const menores30 = personas.filter(function(persona){
+    return persona.edad <30;
+});
+
+console.log(menores30);
+//Función flecha
+const menores30flecha = personas.filter((persona) => persona.edad < 30);
+console.log(menores30flecha);
+
