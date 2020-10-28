@@ -109,3 +109,28 @@ console.log(menores30);
 const menores30flecha = personas.filter((persona) => persona.edad < 30);
 console.log(menores30flecha);
 
+//Destrucción
+//ES5
+var datos = ['Pablo', 25];
+
+var nombre5 = datos[0];
+var edad5 = datos[1];
+console.log(nombre5);
+console.log(edad5);
+
+//ES6 
+var [nombre6d,edad6d]= ['Pablo', 25];
+console.log(nombre6d);
+console.log(edad6d);
+
+const persona = {
+    nombrec: 'Carlos',
+    edadc: 30
+}
+const {nombrec,edadc} = persona;
+console.log(nombrec);
+console.log(edadc);
+
+const {nombrec: n, edadc: e} = persona;
+console.log(n);
+console.log(e);
