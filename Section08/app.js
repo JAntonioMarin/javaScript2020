@@ -134,3 +134,16 @@ console.log(edadc);
 const {nombrec: n, edadc: e} = persona;
 console.log(n);
 console.log(e);
+
+//Ejemplo de destruccion
+
+const calcularMayoriaEdad = (year) => {
+    const edad = new Date().getFullYear() - year;
+    const mayoria = edad > 18 ? true : false;
+    return [edad, mayoria];
+}
+
+const [edad2, mayoria] = calcularMayoriaEdad(1990);
+console.log(edad2);
+console.log(`Es mayor de edad: ${mayoria}`);
+
