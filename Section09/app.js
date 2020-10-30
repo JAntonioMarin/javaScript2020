@@ -112,3 +112,41 @@ console.log(aliasNombre);
 
 console.log(respuesta);
 
+// Destructuracion de objetos parte 2
+
+const getPersonaDatos = () => {
+    const respuesta = [
+    {
+        codigo: 200,
+        data : {
+            persona2: {
+                nombre2: 'Pepe Luis',
+                direccion: {
+                    ciudad: 'Bogota',
+                    pais: 'Colombia'
+                }
+            }
+        }
+    },
+    {
+        codigo: 200,
+        data : {
+            persona2: {
+                nombre2: 'Pepe Luis',
+                direccion: {
+                    ciudad: 'Bogota',
+                    pais: 'Colombia'
+                }
+            }
+        }
+    }]
+    return respuesta;
+}
+    
+
+
+let {codigo : aliasCodigo2, data : {persona2 : {nombre2: aliasNombre2}}} = getPersonaDatos()[0];
+console.log(aliasNombre2);
+for (const {codigo:status, data: {persona2: {nombre2:nom}}} of getPersonaDatos()){
+    console.log(nom);
+}
