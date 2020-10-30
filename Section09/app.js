@@ -43,3 +43,18 @@ let libroAResumen = getResumen(miLibro);
 let libroBResumen = getResumen(miLibroB);
 console.log(libroBResumen.resumen);
 console.log(libroBResumen.resumenPaginas);
+
+// Referencia a los objetos
+
+let trabajador = {
+    nombre: 'Juan Antonio',
+    edad: 34,
+    sueldo: 1200
+}
+
+let cambiarSueldo = (trabajador, cantidad) => {
+    trabajador.sueldo = cantidad;
+}
+
+cambiarSueldo(trabajador, 1600);
+console.log(trabajador)
