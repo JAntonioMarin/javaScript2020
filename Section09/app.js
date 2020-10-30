@@ -91,3 +91,24 @@ console.log(nombre.toLowerCase());
 console.log((nombre.trim().toUpperCase()));
 console.log(clave.includes('clave', 0));
 
+// Destructuracion de objetos parte 1
+
+const respuesta = {
+    codigo: 200,
+    data : {
+        persona: {
+            nombre: 'Pepe Jose',
+            direccion: {
+                ciudad: 'Lima',
+                pais: 'Peru'
+            }
+        }
+    }
+}
+
+let {codigo : aliasCodigo, data : {persona : {nombre: aliasNombre}}} = respuesta;
+console.log(aliasCodigo);
+console.log(aliasNombre);
+
+console.log(respuesta);
+
