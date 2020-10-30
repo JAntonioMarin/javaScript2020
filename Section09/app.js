@@ -67,8 +67,15 @@ let objetoPrueba = {
     sueldo: 1200,
     metodoPrueba: function(){
         return 'Escribiendo desde el método Prueba';
+    },
+    cambiarEdad: function(edad){
+        this.edad = edad;
     }
 }
 
 let result = objetoPrueba.metodoPrueba();
 console.log(result);
+
+// Uso de this
+objetoPrueba.cambiarEdad(45);
+console.log(objetoPrueba.edad);
