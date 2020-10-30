@@ -57,4 +57,18 @@ let cambiarSueldo = (trabajador, cantidad) => {
 }
 
 cambiarSueldo(trabajador, 1600);
-console.log(trabajador)
+console.log(trabajador);
+
+// Metodos
+
+let objetoPrueba = {
+    nombre: 'Juan Antonio',
+    edad: 34,
+    sueldo: 1200,
+    metodoPrueba: function(){
+        return 'Escribiendo desde el método Prueba';
+    }
+}
+
+let result = objetoPrueba.metodoPrueba();
+console.log(result);
