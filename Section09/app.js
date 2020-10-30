@@ -22,3 +22,24 @@ let persona = {
 }
 persona.edad = 35;
 console.log(`${persona.nombre} tiene ${persona.edad} años y vive en ${persona.ciudad}`);
+
+//Usando objetos con funciones
+
+let miLibroB = {
+    titulo: 'Programación PHP',
+    autor: 'Pablo Vazquez',
+    paginas: 70,
+    publicado: true
+}
+
+let getResumen = (libro) => {
+    return{
+        resumen: `${libro.titulo} creado por ${libro.autor}`,
+        resumenPaginas: `${libro.titulo} tiene ${libro.paginas} páginas`
+    }
+}
+
+let libroAResumen = getResumen(miLibro);
+let libroBResumen = getResumen(miLibroB);
+console.log(libroBResumen.resumen);
+console.log(libroBResumen.resumenPaginas);
