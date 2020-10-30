@@ -121,17 +121,17 @@
 
 ### Section 9: JavaScript Moderno - Objetos
 
-- [ ] Introducción
-- [ ] Objetos - Lo básico
-- [ ] Ejercicio de codificación Objetos
-- [ ] Usando objetos con funciones
-- [ ] Referencia a los objetos
-- [ ] Métodos
-- [ ] Uso de this
-- [ ] Objetos String
-- [ ] Destructuración de objetos - parte 1
-- [ ] Destructuración de objetos - parte 2
-- [ ] Código de la sección
+- [x] Introducción
+- [x] Objetos - Lo básico
+- [x] Ejercicio de codificación Objetos
+- [x] Usando objetos con funciones
+- [x] Referencia a los objetos
+- [x] Métodos
+- [x] Uso de this
+- [x] Objetos String
+- [x] Destructuración de objetos - parte 1
+- [x] Destructuración de objetos - parte 2
+- [x] Código de la sección
 
 ### Section 10: JavaScript Moderno - Clases
 
@@ -143,5 +143,20 @@
 - [ ] Subclases - parte 2
 - [ ] Getter y Setter
 - [ ] Código de la sección
+
+### Section 11: JavaScript Moderno - Arreglos (Arrays)
+
+- [ ] Introducción
+- [ ] Arreglo básico
+- [ ] Agregar/quitar elemento al inicio/final
+- [ ] Agregar/quitar lemento con splice
+- [ ] Bucle sobre matrices
+- [ ] Recorrer un arreglo
+- [ ] Búsqueda
+- [ ] Ampliando la búsqueda
+- [ ] Filtrado
+- [ ] Ordenación de arreglos
+- [ ] Código de la sección
+
 
 Continuara...
