@@ -79,3 +79,15 @@ console.log(result);
 // Uso de this
 objetoPrueba.cambiarEdad(45);
 console.log(objetoPrueba.edad);
+
+// Objetos String
+
+let nombre = ' Juanaco el bueno ';
+let clave = '1234clave5678';
+
+console.log(nombre.length);
+console.log(nombre.toUpperCase());
+console.log(nombre.toLowerCase());
+console.log((nombre.trim().toUpperCase()));
+console.log(clave.includes('clave', 0));
+
