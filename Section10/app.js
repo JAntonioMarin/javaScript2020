@@ -27,6 +27,14 @@ class Empleado extends Persona{
     getBiografia(){
         return super.getBiografia() + `Nombre: ${this.nombre}, Puesto: ${this.puesto}, Salario: ${this.sueldo}`;
     }
+
+    set sueldo(sueldo){
+        this._sueldo = sueldo;
+    }
+
+    get sueldo(){
+        return this._sueldo;
+    }
 }
 
 
@@ -36,3 +44,21 @@ const persona3 = new Persona('Julian', 23, ['Estudiante']);
 console.log(persona1.getBiografia());
 console.log(persona2.getBiografia());
 console.log(persona3.getBiografia());
+
+persona1.sueldo = 2000;
+console.log(persona1.getBiografia());
+
+//Getter y Setter
+
+// const datos = {
+//     get ubicacion(){
+//         return this._ubicacion
+//     },
+//     set ubicacion(valor){
+//         this._ubicacion = valor; 
+//     }
+// }
+
+// datos.ubicacion = 'Buenos Aires';
+// console.log(datos.ubicacion);
+// console.log(datos);
