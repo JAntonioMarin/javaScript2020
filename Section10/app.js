@@ -23,10 +23,16 @@ class Empleado extends Persona{
         this.sueldo = sueldo;
         this.puesto = puesto;
     }
+
+    getBiografia(){
+        return super.getBiografia() + `Nombre: ${this.nombre}, Puesto: ${this.puesto}, Salario: ${this.sueldo}`;
+    }
 }
 
 
 const persona1 = new Empleado('Pablo', 30, ['Arquitecto', 'Doctor'], 1000, 'Administrador');
 const persona2 = new Empleado('Ana', 25, ['Ingeniera', 'Profesora'], 1500, 'Gerente');
+const persona3 = new Persona('Julian', 23, ['Estudiante']);
 console.log(persona1.getBiografia());
 console.log(persona2.getBiografia());
+console.log(persona3.getBiografia());
