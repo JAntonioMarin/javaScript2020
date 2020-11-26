@@ -1,22 +1,32 @@
 ////// Manejo de clases en JavaScript //////
 
 class Persona{
-    constructor(nombre ,edad, trabajos = []){
+    constructor(nombre ,edad, profesiones = []){
         this.nombre = nombre;
         this.edad = edad;
-        this.trabajos = trabajos;
+        this.profesiones = profesiones;
     }
 
     getBiografia(){
-        let biografia = `${this.nombre}, tiene ${this.edad}, Trabajo/s: `;
+        let biografia = `${this.nombre}, tiene ${this.edad}, Profesion/es: `;
 
-        this.trabajos.forEach((trabajo) => {
+        this.profesiones.forEach((trabajo) => {
             biografia += `${trabajo},`;
         })
         return biografia;
     }
 }
-const persona1 = new Persona('Pablo', 30, ['Arquitecto', 'Doctor']);
-const persona2 = new Persona('Ana', 25, ['Ingeniera', 'Profesora']);
+
+class Empleado extends Persona{
+    constructor(nombre, edad, profesiones = [], sueldo, puesto){
+        super(nombre, edad, profesiones);
+        this.sueldo = sueldo;
+        this.puesto = puesto;
+    }
+}
+
+
+const persona1 = new Empleado('Pablo', 30, ['Arquitecto', 'Doctor'], 1000, 'Administrador');
+const persona2 = new Empleado('Ana', 25, ['Ingeniera', 'Profesora'], 1500, 'Gerente');
 console.log(persona1.getBiografia());
 console.log(persona2.getBiografia());
