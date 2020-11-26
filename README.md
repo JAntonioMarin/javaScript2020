@@ -135,14 +135,14 @@
 
 ### Section 10: JavaScript Moderno - Clases
 
-- [ ] Introducción
-- [ ] Programación Orientada a Objetos
-- [ ] Clases, sintaxis y constructores
-- [ ] Clases, sintaxis y constructores - parte 2
-- [ ] Subclases - parte 1
-- [ ] Subclases - parte 2
-- [ ] Getter y Setter
-- [ ] Código de la sección
+- [x] Introducción
+- [x] Programación Orientada a Objetos
+- [x] Clases, sintaxis y constructores
+- [x] Clases, sintaxis y constructores - parte 2
+- [x] Subclases - parte 1
+- [x] Subclases - parte 2
+- [x] Getter y Setter
+- [x] Código de la sección
 
 ### Section 11: JavaScript Moderno - Arreglos (Arrays)
 
