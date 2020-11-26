@@ -158,5 +158,17 @@
 - [ ] Ordenación de arreglos
 - [ ] Código de la sección
 
+### Section 12: JavaScript Moderno - LocalStorage
+
+- [ ] Introducción
+- [ ] ¿Que es el LocalStorage?
+- [ ] Guardar y leer datos
+- [ ] Remover y limpiar datos
+- [ ] Notación JSON
+- [ ] Guardar y leer objetos en el localstorage
+- [ ] Código de la sección
+
+
+
 
 Continuara...
