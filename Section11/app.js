@@ -71,3 +71,15 @@ const buscarIngrediente = function(ceviche2, titulo){
     return index;
 }
 console.log(ceviche2[buscarIngrediente(ceviche2, 'pescado')]);
+ 
+// Filtrado
+
+const paises = ['España', 'Francia', 'Alemania']
+console.log(paises.filter(pais => pais.toLowerCase().includes('e')))
+
+const filtrarIngredientes = ceviche2.filter(function(ing, index){
+    const ingredientes = ing.titulo.includes('p');
+    return ingredientes;
+})
+
+console.log(filtrarIngredientes);
