@@ -27,3 +27,11 @@ ceviche.splice(1,1);
 console.log(ceviche);
 ceviche.splice(1,0,'limón');
 console.log(ceviche);
+
+//Bucle sobre matrices
+
+ceviche.forEach(function(item, index){
+    console.log(index);
+    console.log(item);
+})
+
