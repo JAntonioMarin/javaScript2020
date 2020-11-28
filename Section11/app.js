@@ -20,3 +20,10 @@ ceviche.unshift('pimiento');
 console.log(ceviche);
 ceviche.shift();
 console.log(ceviche);
+
+//Agregar/quitar elemento con splice
+
+ceviche.splice(1,1);
+console.log(ceviche);
+ceviche.splice(1,0,'limón');
+console.log(ceviche);
