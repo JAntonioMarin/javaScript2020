@@ -168,6 +168,19 @@
 - [ ] Guardar y leer objetos en el localstorage
 - [ ] Código de la sección
 
+### Section 13: Practicando - App colección de libros
+
+- [ ] Introducción
+- [ ] Servidor local con lite-server
+- [ ] Importando el tema de la aplicación
+- [ ] Maquetando la App
+- [ ] Lógica de las clases JavaScript
+- [ ] Definiendo las clases JavaScript
+- [ ] Agregar libros a la colección
+- [ ] Consultar y mostrar los libros de la colección
+- [ ] Eliminar libros de la colección
+- [ ] Código de la sección
+
 
 
 
