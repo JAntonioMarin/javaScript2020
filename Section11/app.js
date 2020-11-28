@@ -78,8 +78,22 @@ const paises = ['España', 'Francia', 'Alemania']
 console.log(paises.filter(pais => pais.toLowerCase().includes('e')))
 
 const filtrarIngredientes = ceviche2.filter(function(ing, index){
-    const ingredientes = ing.titulo.includes('p');
-    return ingredientes;
+    const ingredientes = ing.titulo.includes('p')
+    return ingredientes
 })
 
-console.log(filtrarIngredientes);
+console.log(filtrarIngredientes)
+
+// Ordenacion de arrays
+
+ceviche2.sort(function(a,b){
+    if(a.titulo>b.titulo){
+        return 1
+    }
+    if(a.titulo<b.titulo){
+        return -1
+    }
+    return 0
+})
+console.log(ceviche2)
+
