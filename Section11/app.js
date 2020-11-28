@@ -35,3 +35,8 @@ ceviche.forEach(function(item, index){
     console.log(item);
 })
 
+// Recorrer un array
+
+for(let i=0; i < ceviche.length; i++){
+    console.log(`Indice ${i}: ${ceviche[i]}`)
+}
