@@ -146,17 +146,17 @@
 
 ### Section 11: JavaScript Moderno - Arreglos (Arrays)
 
-- [ ] Introducción
-- [ ] Arreglo básico
-- [ ] Agregar/quitar elemento al inicio/final
-- [ ] Agregar/quitar lemento con splice
-- [ ] Bucle sobre matrices
-- [ ] Recorrer un arreglo
-- [ ] Búsqueda
-- [ ] Ampliando la búsqueda
-- [ ] Filtrado
-- [ ] Ordenación de arreglos
-- [ ] Código de la sección
+- [X] Introducción
+- [X] Arreglo básico
+- [X] Agregar/quitar elemento al inicio/final
+- [X] Agregar/quitar lemento con splice
+- [X] Bucle sobre matrices
+- [X] Recorrer un arreglo
+- [X] Búsqueda
+- [X] Ampliando la búsqueda
+- [X] Filtrado
+- [X] Ordenación de arreglos
+- [X] Código de la sección
 
 ### Section 12: JavaScript Moderno - LocalStorage
 
