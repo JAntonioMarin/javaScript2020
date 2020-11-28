@@ -61,3 +61,13 @@ const index = ceviche2.findIndex(function(ing, index){
     return ing.titulo === 'carne';
 })
 console.log(index);
+
+// Ampliando la busqueda
+
+const buscarIngrediente = function(ceviche2, titulo){
+    const index = ceviche2.findIndex(function(ing, index){
+        return ing.titulo === titulo
+    })
+    return index;
+}
+console.log(ceviche2[buscarIngrediente(ceviche2, 'pescado')]);
