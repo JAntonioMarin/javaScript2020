@@ -1,4 +1,4 @@
-/// Arraus en ES6+///  
+/// Arrays en ES6+///  
 
 const ceviche = ['pescado', 'mariscos', 'cebolla'];
 
@@ -40,3 +40,24 @@ ceviche.forEach(function(item, index){
 for(let i=0; i < ceviche.length; i++){
     console.log(`Indice ${i}: ${ceviche[i]}`)
 }
+
+// Busqueda
+
+console.log(ceviche.indexOf('cebolla'))
+
+const ceviche2 = [
+    {
+        codigo: 1,
+        titulo: 'pescado'
+    },
+    {
+        codigo: 2,
+        titulo: 'carne'
+    },
+]
+console.log(ceviche2)
+const index = ceviche2.findIndex(function(ing, index){
+    console.log(ing);
+    return ing.titulo === 'carne';
+})
+console.log(index);
